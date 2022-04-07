@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Occupational Prestige Data
 subtitle:
 
 content:

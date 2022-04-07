@@ -1,24 +1,24 @@
 ---
 # Display name
-title: 吳恩達
+title: David M. Condon
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - David M. Condon
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor Psychology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Oregon
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include personality.
 
 interests:
   - Artificial Intelligence
@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Psychology
+      institution: Northwestern University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
