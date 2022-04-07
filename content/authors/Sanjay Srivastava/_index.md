@@ -18,24 +18,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include interpersonal personality.
+bio: My research interests include interpersonal perceptions of personality.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interpersonal perception
+  - Personality
 
 education:
   courses:
     - course: PhD in Psychology
       institution: UC Berkeley
-<<<<<<< HEAD
       year: 2003
-=======
-      year: 20??
->>>>>>> 0503ebe0e8323ae6dd2bc94debc067f6d98fb5ed
-    - 
-    - 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

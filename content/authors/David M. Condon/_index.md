@@ -23,23 +23,13 @@ bio: My research interests include personality.
 interests:
   - Personality
   - Measurement
-<<<<<<< HEAD
   - other stuff
-=======
-  - ?
->>>>>>> 0503ebe0e8323ae6dd2bc94debc067f6d98fb5ed
 
 education:
   courses:
     - course: PhD in Psychology
       institution: Northwestern University
-<<<<<<< HEAD
       year: 2008
-=======
-      year: 201?
->>>>>>> 0503ebe0e8323ae6dd2bc94debc067f6d98fb5ed
-    - 
-    - 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
