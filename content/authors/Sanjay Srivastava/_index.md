@@ -29,7 +29,11 @@ education:
   courses:
     - course: PhD in Psychology
       institution: UC Berkeley
+<<<<<<< HEAD
       year: 2003
+=======
+      year: 20??
+>>>>>>> 0503ebe0e8323ae6dd2bc94debc067f6d98fb5ed
     - 
     - 
 
