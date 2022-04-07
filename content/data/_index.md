@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Occuaptional Prestige Ratings
 
 # Listing view
 view: compact
