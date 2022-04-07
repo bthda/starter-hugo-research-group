@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: We are a group of researchers interested in understanding Occuaptional Prestige.
+    - title: We are a group of researchers interested in understanding Occupational Prestige.
       content: Take a look at what we're working on...
       align: center
       background:

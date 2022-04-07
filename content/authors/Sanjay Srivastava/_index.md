@@ -1,16 +1,16 @@
 ---
 # Display name
-title: David M. Condon
+title: Sanjay Srivastava
 
 # Username (this should match the folder name)
 authors:
-  - David M. Condon
+  - Sanjay Srivastava
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor Psychology
+role: Professor of Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include personality.
+bio: My research interests include interpersonal personality.
 
 interests:
-  - Personality
-  - Measurement
-  - ?
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
     - course: PhD in Psychology
-      institution: Northwestern University
-      year: 201?
+      institution: UC Berkeley
+      year: 20??
     - 
     - 
 
@@ -43,7 +43,7 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/hardsci
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -65,4 +65,4 @@ user_groups:
   - Researchers
 ---
 
-My work is particularly focused on questions related to the structure and measurement of psychological individual differences (e.g., temperament/personality, cognitive abilities, interests, values, motivation). This work includes the development of measurement tools for use in clinical settings and the translation of findings from individual differences research towards the prediction of real-world outcomes. Most of this work follows from analyses of large-scale data sets like those collected from the SAPA-Project, where data on more than 7,000 variables are contributed by over 250,000 participants each year. Datasets like these are well-suited for the development of both empirically-informed outcome-specific prediction tools and taxonomic models that can more broadly inform the ways that individual differences relate to one another across the lifespan. 
+I am a professor of psychology at the University of Oregon. I study how personality, emotions, status, and culture are expressed in social interactions and online, how people form impressions of one another, and how personality develops over the lifespan. I am also interested in methods and practices in psychology that make the field more open, rigorous, inclusive, and just. I teach, blog, and podcast about personality psychology, open science, and research methods.
