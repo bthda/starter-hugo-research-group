@@ -29,7 +29,6 @@ education:
   courses:
     - course: PhD in Psychology
       institution: Northwestern University
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

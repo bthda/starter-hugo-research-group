@@ -28,7 +28,6 @@ education:
   courses:
     - course: PhD in Psychology
       institution: UC Berkeley
-      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
