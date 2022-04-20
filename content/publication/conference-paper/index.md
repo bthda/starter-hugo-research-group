@@ -17,8 +17,8 @@ publishDate: '2022-04-20T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *SPSP*
-publication_short: In *SPSP*
+publication: Poster presented at the annual meeting of the Society for Personality and Social Psychology 22nd Annual Convention, Virtual.
+publication_short: Presented at *SPSP*
 
 abstract: Occupational prestige (OP) is the psychological component of objective socioeconomic status (SES) that represents individual differences in the amount of status conferred to individuals based on their occupation. It is unlike other “objective” measures of SES (income and educational attainment) in that it is not factual information but instead an indirectly measured latent construct. In this work, we collected 150,000+ prestige ratings of ~1000 `O*NET` (the U.S.’s primary repository of job information) occupations (M = 153). We estimated agreement among the people who rated each occupation to assess reliability and show consensus. To compare our ratings to related measures we created crosswalks, that match corresponding occupations, and estimated the correlations between them. The correlations between OP and income and educational attainment showed convergent and discriminate validity. To connect OP to real-world job skills and requirements, we used a statistical learning approach to identify the physiological and psychological characteristics associated with prestige using data collected by `O*NET`, containing ratings of 250 characteristics of each occupation. 
 
