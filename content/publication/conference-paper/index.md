@@ -1,13 +1,14 @@
 ---
-title: 'An example conference paper'
+title: 'What Do You Do? Occupational Prestige, the Psychological Indicator of Socioeconomic Status'
 authors:
   - admin
-  - Robert Ford
+  - Sanjay Srivastava
+  - David M. Condon
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-04-20T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +17,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *SPSP*
+publication_short: In *SPSP*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Occupational prestige (OP) is the psychological component of objective socioeconomic status (SES) that represents individual differences in the amount of status conferred to individuals based on their occupation. It is unlike other “objective” measures of SES (income and educational attainment) in that it is not factual information but instead an indirectly measured latent construct. In this work, we collected 150,000+ prestige ratings of ~1000 `O*NET` (the U.S.’s primary repository of job information) occupations (M = 153). We estimated agreement among the people who rated each occupation to assess reliability and show consensus. To compare our ratings to related measures we created crosswalks, that match corresponding occupations, and estimated the correlations between them. The correlations between OP and income and educational attainment showed convergent and discriminate validity. To connect OP to real-world job skills and requirements, we used a statistical learning approach to identify the physiological and psychological characteristics associated with prestige using data collected by `O*NET`, containing ratings of 250 characteristics of each occupation. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We collected 150,000+ prestige ratings of ~1000 O*NET occupations (M = 153). We show consensus in these ratings of occupational prestige (OP) and present correlations with related measures. Correlations with income and education show convergent and discriminate validity. We use statistical learning to identify the physiological and psychological characteristics of occupations associated with OP.
 
 tags:
   - Source Themes
