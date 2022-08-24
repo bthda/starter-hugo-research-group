@@ -3,6 +3,7 @@ title: 'Occupational Prestige: The Status Component of Socioeconomic Status '
 authors:
   - admin
   - Sanjay Srivastava
+  - Magdalena Leszko
   - David M. Condon
 date: '2022'
 doi: ''
