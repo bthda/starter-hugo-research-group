@@ -16,10 +16,6 @@ output:
 
 <br>
 
-### Overview
-
-[Insert something like the abstract from the submitted manuscript here.]
-
 For more details, see [--- citation blinded for review ---]
 <!-- 
 <font size="2">Hughes, B. T., Srivastava, S., Leszko, M., & Condon, D. M. (under review). Occupational Prestige: The Psychosocial Indicator of Socioeconomic Status. *Journal TBD*.</font>
@@ -27,7 +23,7 @@ For more details, see [--- citation blinded for review ---]
 
 <br>
 
-## View and interact with the ratings and crosswalks online
+### View and interact with the ratings and crosswalks online
 
 --- The occupational prestige ratings described in the manuscript can be viewed and sorted online here:
 [op ratings](https://occupational-prestige.github.io/opratings/opratings.html)
@@ -35,7 +31,7 @@ For more details, see [--- citation blinded for review ---]
 --- A crosswalk of these ratings to older versions can be found here:
 [op crosswalk](https://occupational-prestige.github.io/opratings/opcrosswalk.html)
 
-## Download the prestige ratings, crosswalks, and csv to create survey item
+### Download the prestige ratings, crosswalks, and csv to create survey item
 
 --- A csv file with the occupational titles and prestige ratings can be downloaded here: [download link here]
 
