@@ -22,7 +22,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: [250px, 250px]
+    image_size: {width=250px}
     text_color_light: true
   spacing:
     padding: ['20px', '0', '20px', '0']
