@@ -9,7 +9,7 @@ weight: 20 # Order that this section will appear.
 title: |
   Measuring Occupational Prestige  
   
-hero_media: featured.jpg
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
