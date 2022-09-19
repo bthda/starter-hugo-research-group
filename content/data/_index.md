@@ -27,14 +27,21 @@ For more details, see [--- citation blinded for review ---]
 
 <br>
 
-### About the ratings
+## View and interact with the ratings and crosswalks online
 
-[Insert info about: the source files, downloading the data, planned updates, how users can provide feedback or suggestions, and commentary about responsible use and interpretation.]
-
---- The occupational prestige ratings described in the manuscript are here:
-[https://occupational-prestige.github.io/opratings/opratings.html](https://occupational-prestige.github.io/opratings/opratings.html)
+--- The occupational prestige ratings described in the manuscript can be viewed and sorted online here:
+[op ratings](https://occupational-prestige.github.io/opratings/opratings.html)
 
 --- A crosswalk of these ratings to older versions can be found here:
-[https://occupational-prestige.github.io/opratings/opcrosswalk.html](https://occupational-prestige.github.io/opratings/opcrosswalk.html)
+[op crosswalk](https://occupational-prestige.github.io/opratings/opcrosswalk.html)
 
---- The code used to create this website is here: [https://github.com/occupational-prestige/opratings](https://github.com/pie-lab/opratings).
+## Download the prestige ratings, crosswalks, and csv to create survey item
+
+--- A csv file with the occupational titles and prestige ratings can be downloaded here: [download link here]
+
+--- A csv file with the crosswalks can be downloaded here: [download link here]
+
+--- A csv file that can be used to create a Qualtrics dropdown item for participants to indicate their occupation and occupation family can be downloaded here: [download link here]
+
+
+

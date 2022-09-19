@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:iCalendar-Ruby
+BEGIN:VEVENT
+CATEGORIES:Lectures & Presentations,Diversity and Multiculturalism
+DESCRIPTION:The Wayne Morse Center\, the Labor Education and Research Cente
+ r\, and the UO History Department present a lecture from Matt Garcia\, Dart
+ mouth Professor of Latin American\, Latino\, and Caribbean Studies and Hist
+ ory. Professor Garcia will present on the continuing challenges to farmwork
+ er organizing\, and to explore models of “social responsibility” and labor 
+ rights in the fast food industry over the last fifty years.
+DTEND:20221004T004500Z
+DTSTAMP:20220825T153227Z
+DTSTART:20221003T230000Z
+GEO:44.043144;-123.069603
+LOCATION:William W. Knight Law Center\, 175
+SEQUENCE:0
+SUMMARY:Labor History Lecture Series: Matt Garcia
+UID:tag:localist.com\,2008:EventInstance_40753727439864
+URL:https://calendar.uoregon.edu/event/labor_history_lecture_series_matt_ga
+ rcia
+END:VEVENT
+END:VCALENDAR
