@@ -36,7 +36,7 @@ For more details, see [--- citation blinded for review ---]
 
 --- A csv file with the crosswalks can be downloaded here: [download link here]
 
---- A csv file that can be used to create a Qualtrics dropdown item for participants to indicate their occupation and occupation family can be downloaded here: {{% staticref "opr_4_qualtrics.csv" %}}occupational prestige for Qualtrics item{{% /staticref %}}.
+--- A csv file that can be used to create a Qualtrics dropdown item for participants to indicate their occupation and occupation family can be downloaded here: {{% staticref "file/opr_4_qualtrics.csv" %}}occupational prestige for Qualtrics item{{% /staticref %}}.
 
 
 
