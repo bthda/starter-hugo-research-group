@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: Occupational Prestige Papers
+title: 
 subtitle:
 
 content:
-  count: 5
+  count: 0
   filters:
     author: ''
     category: ''
