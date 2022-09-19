@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: false # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Occupational Prestige  
+  Measuring Occupational Prestige  
   
 hero_media: welcome.jpg
 design:
