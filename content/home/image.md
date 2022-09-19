@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -22,7 +22,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: actual
     text_color_light: true
   spacing:
     padding: ['20px', '0', '20px', '0']
