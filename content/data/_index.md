@@ -26,11 +26,16 @@ output:
 
 ### Download the prestige ratings, crosswalks, and csv to create survey item
 
---- A csv file with the occupational titles and prestige ratings can be downloaded here: [download link here]
+--- [Occupational Prestige Ratings](https://osf.io/download/kcx2e/)
 
---- A csv file with the crosswalks can be downloaded here: [download link here]
+--- [Occupational Field Prestige Ratings](https://osf.io/download/85sre/)
 
---- A csv file that can be used to create a Qualtrics dropdown item for participants to indicate their occupation and occupation family can be downloaded here: [Occupational Prestige for Qualtrics item](https://osf.io/download/uqmpn/)
+--- [Crosswalk to previous indices of prestige](https://osf.io/download/arju6/)
+
+--- [Crosswalk to SEI indices](https://osf.io/download/nh89y/)
+
+--- A csv file that can be used to create a Qualtrics dropdown item for participants to indicate their occupation and occupation family can be downloaded here: 
+-- [Occupational Prestige for Qualtrics item](https://osf.io/download/uqmpn/)
 
 
 
