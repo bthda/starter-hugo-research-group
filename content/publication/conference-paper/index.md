@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-url_poster: 'static/bhughes_spsp2021_poster.pdf'
+url_poster: 'bhughes_spsp2021_poster.pdf'
 url_video: 'https://youtu.be/oKz0erb2Qjk'
 
 # Featured image
