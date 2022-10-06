@@ -26,8 +26,7 @@ output:
 <br>
 
 ### Download the prestige ratings, crosswalks, and csv to create survey item 
-
-***Please email me at bhughes7@uoregon.edu if you have any issues downloading anything.***
+### Please email me at bhughes7@uoregon.edu if you have any issues downloading anything.
 
 --- [Occupational Prestige Ratings](https://osf.io/download/kcx2e/?view_only=87691c74b7fa411682ff488ba0e61558)
 
