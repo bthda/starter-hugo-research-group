@@ -24,13 +24,11 @@ output:
 
 <br>
 
-## Download: 
+## Download the Data 
 
 ### the prestige ratings
 
---- [Occupational Prestige Ratings](https://osf.io/download/kcx2e/?view_only=87691c74b7fa411682ff488ba0e61558)
-
---- [Occupational Field Prestige Ratings](https://osf.io/download/85sre/?view_only=87691c74b7fa411682ff488ba0e61558)
+--- [Occupational Prestige Ratings](https://raw.githubusercontent.com/occupational-prestige/opratings/main/data/opratings.csv)
 
 ### Qualtrics dropdown item
 CSV file to create Qualtrics item for participants to indicate their occupation and occupation family:
@@ -38,7 +36,7 @@ CSV file to create Qualtrics item for participants to indicate their occupation 
 --- [Occupation List for Qualtrics](https://osf.io/download/uqmpn/?view_only=87691c74b7fa411682ff488ba0e61558)
 
 ### crosswalks
---- [Crosswalk to previous indices of prestige](https://osf.io/download/arju6/?view_only=87691c74b7fa411682ff488ba0e61558)
+--- [Crosswalk to previous indices of prestige](https://raw.githubusercontent.com/occupational-prestige/opratings/main/data/opratings.csv)
 
 --- [Crosswalk to SEI indices](https://osf.io/download/nh89y/?view_only=87691c74b7fa411682ff488ba0e61558)
 
