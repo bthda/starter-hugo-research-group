@@ -35,7 +35,7 @@ output:
 --- [Crosswalk to SEI indices](https://osf.io/download/nh89y/?view_only=87691c74b7fa411682ff488ba0e61558)
 
 --- A csv file that can be used to create a Qualtrics dropdown item for participants to indicate their occupation and occupation family can be downloaded here: 
--- [Occupational Prestige for Qualtrics item](https://osf.io/download/uqmpn/?view_only=87691c74b7fa411682ff488ba0e61558)
+-- [Occupation List for Qualtrics](https://osf.io/download/uqmpn/?view_only=87691c74b7fa411682ff488ba0e61558)
 
 
 *Please email me at bhughes7@uoregon.edu if you have any issues downloading anything.*
