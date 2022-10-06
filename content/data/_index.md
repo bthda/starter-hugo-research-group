@@ -25,16 +25,15 @@ output:
 
 <br>
 
-### Download the prestige ratings, crosswalks, and csv to create survey item 
-### Please email me at bhughes7@uoregon.edu if you have any issues downloading anything.
+### Download the prestige ratings, crosswalks, and csv to create survey item ***These links currently redirect to an osf page with all of the materials that is blinded for review. Please email me at bhughes7@uoregon.edu if you have any issues downloading anything.***
 
---- [Occupational Prestige Ratings](https://osf.io/download/kcx2e/?view_only=87691c74b7fa411682ff488ba0e61558)
+--- [Occupational Prestige Ratings](https://tinyurl.com/2p9bjtcy)
 
---- [Occupational Field Prestige Ratings](https://osf.io/download/85sre/?view_only=87691c74b7fa411682ff488ba0e61558)
+--- [Occupational Field Prestige Ratings](https://tinyurl.com/2p9bjtcy)
 
---- [Crosswalk to previous indices of prestige](https://osf.io/download/arju6/?view_only=87691c74b7fa411682ff488ba0e61558)
+--- [Crosswalk to previous indices of prestige](https://tinyurl.com/2p9bjtcy)
 
---- [Crosswalk to SEI indices](https://osf.io/download/nh89y/?view_only=87691c74b7fa411682ff488ba0e61558)
+--- [Crosswalk to SEI indices](https://tinyurl.com/2p9bjtcy)
 
 --- A csv file that can be used to create a Qualtrics dropdown item for participants to indicate their occupation and occupation family can be downloaded here: 
 -- [Occupational Prestige for Qualtrics item](https://osf.io/download/uqmpn/?view_only=87691c74b7fa411682ff488ba0e61558)
