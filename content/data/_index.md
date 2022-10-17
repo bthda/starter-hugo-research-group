@@ -36,6 +36,7 @@ CSV file to create Qualtrics item for participants to indicate their occupation 
 --- [Occupation List for Qualtrics](https://osf.io/download/uqmpn/?view_only=87691c74b7fa411682ff488ba0e61558)
 
 CSV file to score the occupation titles:
+
 --- [CSV with occupational prestige ratings for scoring](https://osf.io/download/2xyag/?view_only=87691c74b7fa411682ff488ba0e61558)
 
 
