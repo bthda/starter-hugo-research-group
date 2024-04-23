@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Psychology
+role: Professor Emerit
 
 # Organizations/Affiliations
 organizations:
@@ -59,4 +59,4 @@ user_groups:
   - Researchers
 ---
 
-I am a professor of psychology at the University of Oregon. I study how personality, emotions, status, and culture are expressed in social interactions and online, how people form impressions of one another, and how personality develops over the lifespan. I am also interested in methods and practices in psychology that make the field more open, rigorous, inclusive, and just. I teach, blog, and podcast about personality psychology, open science, and research methods.
+I am a professor emerit of psychology at the University of Oregon. I study how personality, emotions, status, and culture are expressed in social interactions and online, how people form impressions of one another, and how personality develops over the lifespan. I am also interested in methods and practices in psychology that make the field more open, rigorous, inclusive, and just. I teach, blog, and podcast about personality psychology, open science, and research methods.

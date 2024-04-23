@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor Psychology
+role: Senior Behavioral Scientist
 
 # Organizations/Affiliations
 organizations:
