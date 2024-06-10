@@ -33,10 +33,8 @@ featured: false
 # links:
 - name: Paper
    url: 'https://online.ucpress.edu/collabra/article/10/1/92882/200020'
-   
 - name: Data
-   url: 'https://osf.io/preprints/psyarxiv/6qgxvs'
-   
+   url: 'https://osf.io/preprints/psyarxiv/6qgxvs'  
 - name: preprint
    url: 'https://psyarxiv.com/6qgxv/'
 
