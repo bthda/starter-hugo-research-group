@@ -31,13 +31,16 @@ tags:
 featured: false
 
 # links:
-- name: Paper
+[[link]]
+- name: "Paper"
 url_paper: 'https://online.ucpress.edu/collabra/article/10/1/92882/200020'
 
-- name: Data
+[[link]]
+- name: "Data"
 url_data: 'https://osf.io/preprints/psyarxiv/6qgxvs'  
 
-- name: preprint
+[[link]]
+- name: "preprint"
 url_preprint: 'https://psyarxiv.com/6qgxv/'
 
 # Featured image
