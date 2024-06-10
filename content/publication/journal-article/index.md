@@ -33,9 +33,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://psyarxiv.com/6qgxv/
-url_code: ''
-url_dataset: ''
+url_article: https://online.ucpress.edu/collabra/article/10/1/92882/200020 
+url_preprint: https://psyarxiv.com/6qgxv/
+url_osf: https://osf.io/preprints/psyarxiv/6qgxvs
 url_poster: ''
 url_project: ''
 url_slides: ''
