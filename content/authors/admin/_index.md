@@ -25,7 +25,7 @@ education:
   courses:
     - course: PhD in Psychology
       institution: University of Oregon
-      year: Anticipated 2023
+      year: 2023
     - course: MS in Psychology
       institution: University of Oregon
       year: 2018
