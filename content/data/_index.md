@@ -14,19 +14,10 @@ output:
 
 ```
 
-### View and interact with the ratings and crosswalks online
-
---- The occupational prestige ratings described in the manuscript can be viewed and sorted online here:
-[op ratings](https://occupational-prestige.github.io/opratings/opratings.html)
-
---- A crosswalk of these ratings to older versions can be found here:
-[op crosswalk](https://occupational-prestige.github.io/opratings/opcrosswalk.html)
-
-<br>
-
 ## Download the Data 
 
-### the prestige ratings and crosswalk to census
+### Prestige ratings and crosswalk to census
+Note: We recommend to avoid opening the ratings csv file with excel. Doing so typically converts the O*NET codes beginning wiht "11-" to dates.
 
 --- [Occupational Prestige Ratings](https://osf.io/download/whjce/?view_only=87691c74b7fa411682ff488ba0e61558)
 
